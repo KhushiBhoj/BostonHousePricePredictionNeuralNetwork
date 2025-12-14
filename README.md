@@ -30,13 +30,7 @@ This project predicts Boston housing prices using a **neural network regression 
 
 ## **Usage**
 
-1. Clone repo:
-` ```bash
+ Clone repo:
+ ```bash
 git clone https://github.com/KhushiBhoj/BostonHousePricePredictionNeuralNetwork.git
-cd BostonHousePricePredictionNeuralNetwork `
-
-2. Install Dependencies:
-` pip install -r requirements.txt `
-
-3. Open the Jupyter Notebook:
-- Launch Boston House Price Neural Net.ipynb in Jupyter Notebook or Google Colab.
+cd BostonHousePricePredictionNeuralNetwork 
